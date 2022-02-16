@@ -1,6 +1,7 @@
 # Clinician Directory
 *Duration: 3 week sprint*
-An application for coordinating ongoing care with health professionals related to back pain. Users will be able to schedule appointments based on real-time provider availability. This is part of a broader project involving diagnostic telemedicine and remote provision of healthcare services to be able to deliver virtual therapies. 
+
+Clinician Directory is a mobile-first, full stack application. It is used for coordinating ongoing care with health professionals related to back pain. Users can create an account and schedule appointments based on real-time provider availability. This application is part of a broader project involving diagnostic telemedicine and remote provision of healthcare services. 
 
 # Screen Shots from Clinician Directory:
 <img width="193" alt="Screen Shot 2022-02-16 at 10 12 08 AM" src="https://user-images.githubusercontent.com/88270371/154307603-355b330c-cde1-4d60-92ef-20a9936412ea.png">
@@ -31,9 +32,11 @@ Please refer to this instructional video on application usage:
 
 [Clinician Directory Tutorial](https://youtu.be/Ogwb7gOS3kA)
 
+You can access the application for use at https://clinician-directory.herokuapp.com/
+
 ## Built With
 
-HTML, CSS, Node.js, Express.js, Passport, React, MUI, Redux, Google Calendar API, PostgreSQL
+HTML, CSS, Node.js, Express.js, Passport, React, MUI, Redux, Google Calendar API, PostgreSQL, Heroku
 
 <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40px" width="40px" /></a><a href="https://material-ui.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40px" width="40px" /></a><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40px" width="40px" /></a><a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40px" width="40px" /></a><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40px" width="40px" /></a>
 
@@ -49,8 +52,8 @@ Thank you to [Prime Digital Academy](https://www.primeacademy.io/) and our instr
 
 ## Support
 If you have suggestions or issues, please email:
--Justin Cummings at justin.lewis.cummings@gmail.com
--Kelsey Brown at kbrown55347@gmail.com
--Selam Alem at selamtalem@gmail.com
--Warren O'Brien at whoguy24@gmail.com
--Yasir Uddin at yasiruddin625@gmail.com
+- Justin Cummings at justin.lewis.cummings@gmail.com
+- Kelsey Brown at kbrown55347@gmail.com
+- Selam Alem at selamtalem@gmail.com
+- Warren O'Brien at whoguy24@gmail.com
+- Yasir Uddin at yasiruddin625@gmail.com
